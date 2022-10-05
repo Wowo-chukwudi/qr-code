@@ -38,7 +38,7 @@ I'm still having difficulties using rem and em. I have to study it
 
 ### Useful resources
 
-- [How to center a DIv](https://www.example.com) - This helped me learn how to center a div properly. I really liked this pattern and will use it going forward.
+- [How to center a DIV]([https://www.example.com](https://www.freecodecamp.org/news/how-to-center-a-div-with-css/)) - This helped me learn how to center a div properly. I really liked this pattern and will use it going forward.
 
 
 ## Author
